@@ -1,7 +1,7 @@
 <template>
 <div id="amids">
 	<div id="header">
-		<h2>代理商列表</h2>
+		<h2>代理商列表ddd</h2>
     </div>
 	<button @click="add">添加</button>
 	<table class="table table-bordered table-hover table-striped">
@@ -31,7 +31,7 @@
 </div>
 </template>
 <script>
-//import axios from 'axios'
+import axios from 'axios'
 export default {
   name: 'amids',
   data () {
