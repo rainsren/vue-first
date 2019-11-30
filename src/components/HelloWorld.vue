@@ -13,6 +13,9 @@
       <li>
         <router-link to="/ulogin">用户</router-link>
       </li>
+      <li>
+        <a href="/api/">用户</a>
+      </li>
     </ul>
   </div>
 </template>
